@@ -1,0 +1,1 @@
+.every((key) => criteria[key] === obj[key])
